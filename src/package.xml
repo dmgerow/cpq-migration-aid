@@ -38,6 +38,16 @@
         <members>PricebookEntry.ExternalId__c</members>
         <members>PricebookEntry.PricebookExternalId__c</members>
         <members>PricebookEntry.ProductExternalId__c</members>
+        <members>SBQQ__SearchFilter__c.ActionExternalId__c</members>
+        <members>SBQQ__SearchFilter__c.ExternalId__c</members>
+        <members>SBQQ__ProductOption__c.ConfiguredSKUExternalId__c</members>
+        <members>SBQQ__ProductOption__c.ExternalId__c</members>
+        <members>SBQQ__ProductOption__c.FeatureExternalId__c</members>
+        <members>SBQQ__ProductOption__c.OptionalSKUExternalId__c</members>
+        <members>SBQQ__ProductOption__c.RenewalProductOptionExternalId__c</members>
+        <members>SBQQ__ProductAction__c.ExternalId__c</members>
+        <members>SBQQ__ProductAction__c.ProductExternalId__c</members>
+        <members>SBQQ__ProductAction__c.RuleExternalId__c</members>
         <name>CustomField</name>
     </types>
     <types>
