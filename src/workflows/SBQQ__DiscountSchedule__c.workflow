@@ -17,7 +17,7 @@
         </actions>
         <active>true</active>
         <criteriaItems>
-            <field>SBQQ__PriceCondition__c.ExternalId__c</field>
+            <field>SBQQ__DiscountSchedule__c.ExternalId__c</field>
             <operation>equals</operation>
         </criteriaItems>
         <triggerType>onAllChanges</triggerType>
