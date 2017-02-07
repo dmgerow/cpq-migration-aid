@@ -26,7 +26,7 @@
         <members>SBQQ__SummaryVariable__c</members>
         <members>SBQQ__TemplateContent__c</members>
         <members>SBQQ__TemplateSection__c</members>
-        <name>CustomField</name>
+        <name>CustomObject</name>
     </types>
     <types>
         <members>Product2</members>
