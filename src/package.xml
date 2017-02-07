@@ -19,6 +19,7 @@
         <members>SBQQ__TemplateSection__c.ExternalId__c</members>
         <members>SBQQ__TemplateSection__c.TemplateExternalId__c</members>
         <members>SBQQ__TemplateSection__c.ContentExternalId__c</members>
+        <members>SBQQ__QuoteProcess__c.ExternalId__c</members>
         <name>CustomField</name>
     </types>
     <types>
