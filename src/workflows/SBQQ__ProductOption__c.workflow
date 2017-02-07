@@ -16,7 +16,7 @@
             <name>Set_External_Id</name>
             <type>FieldUpdate</type>
         </actions>
-        <active>false</active>
+        <active>true</active>
         <criteriaItems>
             <field>SBQQ__ProductOption__c.ExternalId__c</field>
             <operation>equals</operation>
