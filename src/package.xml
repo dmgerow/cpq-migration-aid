@@ -65,6 +65,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Admin</members>
+        <name>Profile</name>
+    </types>
+    <types>
         <members>Product2</members>
         <members>SBQQ__CustomAction__c</members>
         <members>SBQQ__CustomActionCondition__c</members>
