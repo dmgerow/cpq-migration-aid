@@ -8,7 +8,7 @@
         <length>128</length>
         <required>false</required>
         <type>Text</type>
-        <unique>true</unique>
+        <unique>false</unique>
     </fields>
     <fields>
         <fullName>PricebookExternalId__c</fullName>
