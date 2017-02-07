@@ -24,33 +24,10 @@
         <unique>true</unique>
     </fields>
     <fields>
-        <fullName>FeatureExternalId__c</fullName>
+        <fullName>ScheduleExternalId__c</fullName>
         <externalId>false</externalId>
-        <formula>SBQQ__Feature__r.ExternalId__c</formula>
-        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
-        <label>FeatureExternalId</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>OptionalSKUExternalId__c</fullName>
-        <externalId>false</externalId>
-        <formula>SBQQ__OptionalSKU__r.ExternalId__c</formula>
-        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
-        <label>OptionalSKUExternalId</label>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>RenewalProductOptionExternalId__c</fullName>
-        <externalId>false</externalId>
-        <formula>ExternalId__c</formula>
-        <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
-        <label>RenewalProductOptionExternalId</label>
+        <formula>SBQQ__DiscountSchedule__r.ExternalId__c</formula>
+        <label>ScheduleExternalId</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>

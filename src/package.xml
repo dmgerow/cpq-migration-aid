@@ -59,6 +59,9 @@
         <members>SBQQ__TemplateSection__c.ContentExternalId__c</members>
         <members>SBQQ__TemplateSection__c.ExternalId__c</members>
         <members>SBQQ__TemplateSection__c.TemplateExternalId__c</members>
+        <members>SBQQ__ProductFeature__c.ScheduleExternalId__c</members>
+        <members>SBQQ__ProductFeature__c.ExternalId__c</members>
+        <members>SBQQ__ProductFeature__c.ConfiguredSKUExternalId__c</members>
         <name>CustomField</name>
     </types>
     <types>
