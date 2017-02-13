@@ -2,7 +2,6 @@
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <fields>
         <fullName>ExternalId__c</fullName>
-        <caseSensitive>false</caseSensitive>
         <description>Unique external Id populated by workflow rule.</description>
         <externalId>true</externalId>
         <inlineHelpText>Unique external Id populated by workflow rule.</inlineHelpText>

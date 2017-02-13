@@ -3,7 +3,6 @@
     <enableEnhancedLookup>false</enableEnhancedLookup>
     <fields>
         <fullName>ExternalId__c</fullName>
-        <caseSensitive>false</caseSensitive>
         <externalId>true</externalId>
         <label>ExternalId</label>
         <length>128</length>
