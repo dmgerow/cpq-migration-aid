@@ -3,7 +3,7 @@
     <fieldUpdates>
         <fullName>Set_External_Id</fullName>
         <field>ExternalId__c</field>
-        <formula>$Organization.Id + &apos;:&apos; + Id</formula>
+        <formula>$Organization.Id + &apos;:&apos; + CASESAFEID(Id)</formula>
         <name>Set External Id</name>
         <notifyAssignee>false</notifyAssignee>
         <operation>Formula</operation>
