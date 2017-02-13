@@ -4,7 +4,7 @@
         <fullName>Set_External_Id</fullName>
         <description>Sets External Id to be the concatenation of the Org Id and the Record Id.</description>
         <field>ExternalId__c</field>
-        <formula>UPPER( $Organization.Id ) + &apos;:&apos; +  UPPER( Id )</formula>
+        <formula>$Organization.Id + &apos;:&apos; + Id</formula>
         <name>Set External Id</name>
         <notifyAssignee>false</notifyAssignee>
         <operation>Formula</operation>
