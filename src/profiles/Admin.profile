@@ -28,6 +28,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>SBQQ__ContractedPrice__c.ExternalId__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>SBQQ__CustomActionCondition__c.ActionExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
