@@ -66,6 +66,10 @@
         <members>SBQQ__LineColumn__c.ExternalId__c</members>
         <members>SBQQ__LineColumn__c.SectionExternalId__c</members>
         <members>SBQQ__LineColumn__c.TemplateExternalId__c</members>
+        <members>SBQQ__QuoteTerm__c.ExternalId__c</members>
+        <members>SBQQ__QuoteTerm__c.ParentTermExternalId__c</members>
+        <members>SBQQ__QuoteTerm__c.StandardTermExternalId__c</members>
+        <members>SBQQ__QuoteTerm__c.TemplateContentExternalId__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -97,6 +101,7 @@
         <members>SBQQ__ProductRule__c</members>
         <members>SBQQ__QuoteProcess__c</members>
         <members>SBQQ__QuoteTemplate__c</members>
+        <members>SBQQ__QuoteTerm__c</members>
         <members>SBQQ__SearchFilter__c</members>
         <members>SBQQ__SummaryVariable__c</members>
         <members>SBQQ__TemplateContent__c</members>
