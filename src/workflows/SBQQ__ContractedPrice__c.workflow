@@ -2,6 +2,7 @@
 <Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
     <fieldUpdates>
         <fullName>Set_External_Id</fullName>
+        <description>Sets External Id to be the concatenation of the Org Id and the Record Id.</description>
         <field>ExternalId__c</field>
         <formula>$Organization.Id + &apos;:&apos; + CASESAFEID(Id)</formula>
         <name>Set External Id</name>
@@ -15,11 +16,9 @@
             <name>Set_External_Id</name>
             <type>FieldUpdate</type>
         </actions>
-        <active>false</active>
-        <criteriaItems>
-            <field>SBQQ__ContractedPrice__c.ExternalId__c</field>
-            <operation>equals</operation>
-        </criteriaItems>
+        <active>true</active>
+        <description>Sets External Id to be the concatenation of the Org Id and the Record Id.</description>
+        <formula>OR( ISBLANK(ExternalId__c), AND(ISNEW(),ISCLONE()) )</formula>
         <triggerType>onAllChanges</triggerType>
     </rules>
 </Workflow>
