@@ -21,6 +21,6 @@
 ISBLANK(ExternalId__c),
 AND(ISNEW(),ISCLONE())
 )</formula>
-        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+        <triggerType>onAllChanges</triggerType>
     </rules>
 </Workflow>
