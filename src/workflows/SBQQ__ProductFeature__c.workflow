@@ -21,6 +21,7 @@
             <field>SBQQ__ProductFeature__c.ExternalId__c</field>
             <operation>equals</operation>
         </criteriaItems>
+        <description>Sets External Id to be the concatenation of the Org Id and the Record Id.</description>
         <triggerType>onAllChanges</triggerType>
     </rules>
 </Workflow>
