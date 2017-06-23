@@ -31,7 +31,6 @@ The following objects are currently supported:
 * SBQQ__PriceCondition__c
 * SBQQ__PriceRule__c
 * SBQQ__ProcessInput__c
-* SBQQ__ProcessInputCondition__c
 * SBQQ__ProductAction__c
 * SBQQ__ProductFeature__c
 * SBQQ__ProductOption__c
