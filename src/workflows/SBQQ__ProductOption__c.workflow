@@ -17,11 +17,11 @@
             <type>FieldUpdate</type>
         </actions>
         <active>true</active>
-        <criteriaItems>
-            <field>SBQQ__ProductOption__c.ExternalId__c</field>
-            <operation>equals</operation>
-        </criteriaItems>
         <description>Sets External Id to be the concatenation of the Org Id and the Record Id.</description>
+        <formula>OR(
+ISBLANK(ExternalId__c),
+AND(ISNEW(),ISCLONE())
+)</formula>
         <triggerType>onAllChanges</triggerType>
     </rules>
 </Workflow>

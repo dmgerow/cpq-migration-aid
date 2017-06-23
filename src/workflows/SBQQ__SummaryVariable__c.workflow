@@ -17,10 +17,10 @@
             <type>FieldUpdate</type>
         </actions>
         <active>true</active>
-        <criteriaItems>
-            <field>SBQQ__SummaryVariable__c.ExternalId__c</field>
-            <operation>equals</operation>
-        </criteriaItems>
+        <formula>OR(
+ISBLANK(ExternalId__c),
+AND(ISNEW(),ISCLONE())
+)</formula>
         <triggerType>onCreateOrTriggeringUpdate</triggerType>
     </rules>
 </Workflow>
