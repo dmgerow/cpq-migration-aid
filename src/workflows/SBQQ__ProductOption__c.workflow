@@ -3,6 +3,7 @@
     <fieldUpdates>
         <fullName>Set_External_Id</fullName>
         <description>Sets External Id to be the concatenation of the Org Id and the Record Id.</description>
+        <description>Sets External Id to be the concatenation of the Org Id and the Record Id.</description>
         <field>ExternalId__c</field>
         <formula>$Organization.Id + &apos;:&apos; + CASESAFEID(Id)</formula>
         <name>Set External Id</name>
