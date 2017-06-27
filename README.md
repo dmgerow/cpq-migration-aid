@@ -7,6 +7,8 @@
 
 Set of metadata that can be deployed to a Salesforce org to assist with Salesforce CPQ Data Migration by creating a unique Id (concatenation of your org Id and the record Id) on CPQ configuration data.
 
+Note: This release now requires v208 (Summer '17) or higher. 
+
 Note: External Ids on Price Books and Price Book Entries are not automatically populated because workflow rules are not compatible with those objects as of Winter 17.
 
 ## Usage Instructions
