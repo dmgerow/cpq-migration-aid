@@ -13,7 +13,7 @@
     <fields>
         <fullName>RuleExternalId__c</fullName>
         <externalId>false</externalId>
-        <formula>SBQQ__PriceRule__r.ExternalId__c</formula>
+        <formula>SBQQ__PriceRule2__r.ExternalId__c</formula>
         <label>RuleExternalId</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
