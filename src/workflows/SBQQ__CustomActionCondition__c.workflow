@@ -3,7 +3,7 @@
     <fieldUpdates>
         <fullName>Set_External_Id</fullName>
         <description>Sets external Id to be the concatenation of the org and record Ids</description>
-        <field>ExternalId__c</field>
+        <field>cpqma_ExternalId__c</field>
         <formula>$Organization.Id + &apos;:&apos; + CASESAFEID(Id)</formula>
         <name>Set External Id</name>
         <notifyAssignee>false</notifyAssignee>
@@ -18,7 +18,7 @@
         </actions>
         <active>true</active>
         <description>Sets External Id to be the concatenation of the Org Id and the Record Id.</description>
-        <formula>OR( ISBLANK(ExternalId__c), AND(ISNEW(),ISCLONE()) )</formula>
+        <formula>OR( ISBLANK(cpqma_ExternalId__c), AND(ISNEW(),ISCLONE()) )</formula>
         <triggerType>onAllChanges</triggerType>
     </rules>
 </Workflow>

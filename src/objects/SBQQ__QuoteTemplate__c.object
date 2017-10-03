@@ -2,9 +2,9 @@
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <enableEnhancedLookup>false</enableEnhancedLookup>
     <fields>
-        <fullName>ExternalId__c</fullName>
+        <fullName>cpqma_ExternalId__c</fullName>
         <externalId>true</externalId>
-        <label>ExternalId</label>
+        <label>CPQ External Id</label>
         <length>128</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
@@ -15,7 +15,7 @@
     <fields>
         <fullName>FooterContentExternalId__c</fullName>
         <externalId>false</externalId>
-        <formula>SBQQ__FooterContent__r.ExternalId__c</formula>
+        <formula>SBQQ__FooterContent__r.cpqma_ExternalId__c</formula>
         <label>FooterContentExternalId</label>
         <required>false</required>
         <trackHistory>false</trackHistory>
@@ -26,7 +26,7 @@
     <fields>
         <fullName>HeaderContentExternalId__c</fullName>
         <externalId>false</externalId>
-        <formula>SBQQ__HeaderContent__r.ExternalId__c</formula>
+        <formula>SBQQ__HeaderContent__r.cpqma_ExternalId__c</formula>
         <label>HeaderContentExternalId</label>
         <required>false</required>
         <trackHistory>false</trackHistory>
