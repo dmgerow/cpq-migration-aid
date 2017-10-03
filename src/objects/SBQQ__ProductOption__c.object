@@ -47,7 +47,7 @@
     <fields>
         <fullName>RenewalProductOptionExternalId__c</fullName>
         <externalId>false</externalId>
-        <formula>ExternalId__c</formula>
+        <formula>SBQQ__RenewalProductOption__r.cpqma_ExternalId__c</formula>
         <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
         <label>RenewalProductOptionExternalId</label>
         <required>false</required>
