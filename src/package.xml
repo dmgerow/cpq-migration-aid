@@ -1,77 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Pricebook2.ExternalId__c</members>
-        <members>PricebookEntry.ExternalId__c</members>
+        <members>Pricebook2.cpqma_ExternalId__c</members>
+        <members>PricebookEntry.cpqma_ExternalId__c</members>
         <members>PricebookEntry.PricebookExternalId__c</members>
         <members>PricebookEntry.ProductExternalId__c</members>
-        <members>Product2.ExternalId__c</members>
-        <members>SBQQ__ContractedPrice__c.ExternalId__c</members>
-        <members>SBQQ__CustomAction__c.ExternalId__c</members>
+        <members>Product2.cpqma_ExternalId__c</members>
+        <members>SBQQ__ContractedPrice__c.cpqma_ExternalId__c</members>
+        <members>SBQQ__CustomAction__c.cpqma_ExternalId__c</members>
         <members>SBQQ__CustomAction__c.ParentActionExternalId__c</members>
         <members>SBQQ__CustomActionCondition__c.ActionExternalId__c</members>
-        <members>SBQQ__CustomActionCondition__c.ExternalId__c</members>
-        <members>SBQQ__CustomScript__c.ExternalId__c</members>
-        <members>SBQQ__DiscountSchedule__c.ExternalId__c</members>
+        <members>SBQQ__CustomActionCondition__c.cpqma_ExternalId__c</members>
+        <members>SBQQ__CustomScript__c.cpqma_ExternalId__c</members>
+        <members>SBQQ__DiscountSchedule__c.cpqma_ExternalId__c</members>
         <members>SBQQ__DiscountSchedule__c.OriginalDiscountScheduleExternalId__c</members>
         <members>SBQQ__DiscountSchedule__c.PricebookExternalId__c</members>
         <members>SBQQ__DiscountSchedule__c.ProductExternalId__c</members>
-        <members>SBQQ__ErrorCondition__c.ExternalId__c</members>
+        <members>SBQQ__ErrorCondition__c.cpqma_ExternalId__c</members>
         <members>SBQQ__ErrorCondition__c.FilterVariableExternalId__c</members>
         <members>SBQQ__ErrorCondition__c.RuleExternalId__c</members>
         <members>SBQQ__ErrorCondition__c.TestedVariableExternalId__c</members>
-        <members>SBQQ__LookupQuery__c.ExternalId__c</members>
+        <members>SBQQ__LookupQuery__c.cpqma_ExternalId__c</members>
         <members>SBQQ__LookupQuery__c.RuleExternalId__c</members>
         <members>SBQQ__OptionConstraint__c.ConfiguredSkuExternalId__c</members>
         <members>SBQQ__OptionConstraint__c.ConstrainedOptionExternalId__c</members>
-        <members>SBQQ__OptionConstraint__c.ExternalId__c</members>
-        <members>SBQQ__PriceAction__c.ExternalId__c</members>
+        <members>SBQQ__OptionConstraint__c.cpqma_ExternalId__c</members>
+        <members>SBQQ__PriceAction__c.cpqma_ExternalId__c</members>
         <members>SBQQ__PriceAction__c.RuleExternalId__c</members>
         <members>SBQQ__PriceAction__c.SourceVariableExternalId__c</members>
-        <members>SBQQ__PriceCondition__c.ExternalId__c</members>
+        <members>SBQQ__PriceCondition__c.cpqma_ExternalId__c</members>
         <members>SBQQ__PriceCondition__c.FilterVariableExternalId__c</members>
         <members>SBQQ__PriceCondition__c.RuleExternalId__c</members>
         <members>SBQQ__PriceCondition__c.TestedVariableExternalId__c</members>
-        <members>SBQQ__PriceRule__c.ExternalId__c</members>
+        <members>SBQQ__PriceRule__c.cpqma_ExternalId__c</members>
         <members>SBQQ__PriceRule__c.ProductExternalId__c</members>
-        <members>SBQQ__ProcessInput__c.ExternalId__c</members>
+        <members>SBQQ__ProcessInput__c.cpqma_ExternalId__c</members>
         <members>SBQQ__ProcessInput__c.InputConditionExternalId__c</members>
         <members>SBQQ__ProcessInput__c.QuoteProcessExternalId__c</members>
-        <members>SBQQ__ProcessInputCondition__c.ExternalId__c</members>
+        <members>SBQQ__ProcessInputCondition__c.cpqma_ExternalId__c</members>
         <members>SBQQ__ProcessInputCondition__c.MasterProcessInputExternalId__c</members>
         <members>SBQQ__ProcessInputCondition__c.ProcessInputExternalId__c</members>
-        <members>SBQQ__ProductAction__c.ExternalId__c</members>
+        <members>SBQQ__ProductAction__c.cpqma_ExternalId__c</members>
         <members>SBQQ__ProductAction__c.ProductExternalId__c</members>
         <members>SBQQ__ProductAction__c.RuleExternalId__c</members>
         <members>SBQQ__ProductOption__c.ConfiguredSKUExternalId__c</members>
-        <members>SBQQ__ProductOption__c.ExternalId__c</members>
+        <members>SBQQ__ProductOption__c.cpqma_ExternalId__c</members>
         <members>SBQQ__ProductOption__c.FeatureExternalId__c</members>
         <members>SBQQ__ProductOption__c.OptionalSKUExternalId__c</members>
         <members>SBQQ__ProductOption__c.RenewalProductOptionExternalId__c</members>
-        <members>SBQQ__ProductRule__c.ExternalId__c</members>
-        <members>SBQQ__QuoteProcess__c.ExternalId__c</members>
-        <members>SBQQ__QuoteTemplate__c.ExternalId__c</members>
+        <members>SBQQ__ProductRule__c.cpqma_ExternalId__c</members>
+        <members>SBQQ__QuoteProcess__c.cpqma_ExternalId__c</members>
+        <members>SBQQ__QuoteTemplate__c.cpqma_ExternalId__c</members>
         <members>SBQQ__QuoteTemplate__c.FooterContentExternalId__c</members>
         <members>SBQQ__QuoteTemplate__c.HeaderContentExternalId__c</members>
         <members>SBQQ__SearchFilter__c.ActionExternalId__c</members>
-        <members>SBQQ__SearchFilter__c.ExternalId__c</members>
-        <members>SBQQ__SummaryVariable__c.ExternalId__c</members>
-        <members>SBQQ__TemplateContent__c.ExternalId__c</members>
+        <members>SBQQ__SearchFilter__c.cpqma_ExternalId__c</members>
+        <members>SBQQ__SummaryVariable__c.cpqma_ExternalId__c</members>
+        <members>SBQQ__TemplateContent__c.cpqma_ExternalId__c</members>
         <members>SBQQ__TemplateSection__c.ContentExternalId__c</members>
-        <members>SBQQ__TemplateSection__c.ExternalId__c</members>
+        <members>SBQQ__TemplateSection__c.cpqma_ExternalId__c</members>
         <members>SBQQ__TemplateSection__c.TemplateExternalId__c</members>
         <members>SBQQ__ProductFeature__c.ScheduleExternalId__c</members>
-        <members>SBQQ__ProductFeature__c.ExternalId__c</members>
+        <members>SBQQ__ProductFeature__c.cpqma_ExternalId__c</members>
         <members>SBQQ__ProductFeature__c.ConfiguredSKUExternalId__c</members>
-        <members>SBQQ__LineColumn__c.ExternalId__c</members>
+        <members>SBQQ__LineColumn__c.cpqma_ExternalId__c</members>
         <members>SBQQ__LineColumn__c.SectionExternalId__c</members>
         <members>SBQQ__LineColumn__c.TemplateExternalId__c</members>
-        <members>SBQQ__QuoteTerm__c.ExternalId__c</members>
+        <members>SBQQ__QuoteTerm__c.cpqma_ExternalId__c</members>
         <members>SBQQ__QuoteTerm__c.ParentTermExternalId__c</members>
         <members>SBQQ__QuoteTerm__c.StandardTermExternalId__c</members>
         <members>SBQQ__QuoteTerm__c.TemplateContentExternalId__c</members>
-        <members>SBQQ__ImportFormat__c.ExternalId__c</members>
-        <members>SBQQ__ImportColumn__c.ExternalId__c</members>
+        <members>SBQQ__ImportFormat__c.cpqma_ExternalId__c</members>
+        <members>SBQQ__ImportColumn__c.cpqma_ExternalId__c</members>
         <members>SBQQ__ImportColumn__c.FormatExternalId__c</members>
         <name>CustomField</name>
     </types>
@@ -111,5 +111,5 @@
         <members>SBQQ__TemplateSection__c</members>
         <name>Workflow</name>
     </types>
-    <version>37.0</version>
+    <version>40.0</version>
 </Package>

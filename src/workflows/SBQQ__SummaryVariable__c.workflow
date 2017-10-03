@@ -17,7 +17,7 @@
             <type>FieldUpdate</type>
         </actions>
         <active>true</active>
-        <formula>OR( ISBLANK(ExternalId__c), AND(ISNEW(),ISCLONE()) )</formula>
+        <formula>OR( ISBLANK(cpqma_ExternalId__c), AND(ISNEW(),ISCLONE()) )</formula>
         <triggerType>onAllChanges</triggerType>
     </rules>
 </Workflow>

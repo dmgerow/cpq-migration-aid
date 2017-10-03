@@ -4,7 +4,7 @@
     <fields>
         <fullName>ConfiguredSKUExternalId__c</fullName>
         <externalId>false</externalId>
-        <formula>SBQQ__ConfiguredSKU__r.ExternalId__c</formula>
+        <formula>SBQQ__ConfiguredSKU__r.cpqma_ExternalId__c</formula>
         <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
         <label>ConfiguredSKUExternalId</label>
         <required>false</required>
@@ -13,9 +13,9 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>ExternalId__c</fullName>
+        <fullName>cpqma_ExternalId__c</fullName>
         <externalId>true</externalId>
-        <label>ExternalId</label>
+        <label>CPQ External Id</label>
         <length>128</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
@@ -25,7 +25,7 @@
     <fields>
         <fullName>FeatureExternalId__c</fullName>
         <externalId>false</externalId>
-        <formula>SBQQ__Feature__r.ExternalId__c</formula>
+        <formula>SBQQ__Feature__r.cpqma_ExternalId__c</formula>
         <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
         <label>FeatureExternalId</label>
         <required>false</required>
@@ -36,7 +36,7 @@
     <fields>
         <fullName>OptionalSKUExternalId__c</fullName>
         <externalId>false</externalId>
-        <formula>SBQQ__OptionalSKU__r.ExternalId__c</formula>
+        <formula>SBQQ__OptionalSKU__r.cpqma_ExternalId__c</formula>
         <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
         <label>OptionalSKUExternalId</label>
         <required>false</required>

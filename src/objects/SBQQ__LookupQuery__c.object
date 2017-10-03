@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <fields>
-        <fullName>ExternalId__c</fullName>
+        <fullName>cpqma_ExternalId__c</fullName>
         <externalId>true</externalId>
-        <label>ExternalId</label>
+        <label>CPQ External Id</label>
         <length>128</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
@@ -13,7 +13,7 @@
     <fields>
         <fullName>RuleExternalId__c</fullName>
         <externalId>false</externalId>
-        <formula>SBQQ__PriceRule2__r.ExternalId__c</formula>
+        <formula>SBQQ__PriceRule2__r.cpqma_ExternalId__c</formula>
         <label>RuleExternalId</label>
         <required>false</required>
         <trackTrending>false</trackTrending>

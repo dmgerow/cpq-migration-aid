@@ -18,7 +18,7 @@
         </actions>
         <active>true</active>
         <description>Sets External Id to be the concatenation of the Org Id and the Record Id.</description>
-        <formula>OR( ISBLANK(ExternalId__c), AND(ISNEW(),ISCLONE()) )</formula>
+        <formula>OR( ISBLANK(cpqma_ExternalId__c), AND(ISNEW(),ISCLONE()) )</formula>
         <triggerType>onAllChanges</triggerType>
     </rules>
 </Workflow>

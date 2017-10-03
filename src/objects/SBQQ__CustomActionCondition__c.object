@@ -13,11 +13,11 @@
         <unique>false</unique>
     </fields>
     <fields>
-        <fullName>ExternalId__c</fullName>
+        <fullName>cpqma_ExternalId__c</fullName>
         <description>Unique external Id populated by workflow rule.</description>
         <externalId>true</externalId>
         <inlineHelpText>Unique external Id populated by workflow rule.</inlineHelpText>
-        <label>ExternalId</label>
+        <label>CPQ External Id</label>
         <length>128</length>
         <required>false</required>
         <trackTrending>false</trackTrending>

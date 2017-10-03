@@ -3,12 +3,12 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Pricebook2.ExternalId__c</field>
+        <field>Pricebook2.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>PricebookEntry.ExternalId__c</field>
+        <field>PricebookEntry.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -23,12 +23,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Product2.ExternalId__c</field>
+        <field>Product2.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__ContractedPrice__c.ExternalId__c</field>
+        <field>SBQQ__ContractedPrice__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -38,12 +38,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__CustomActionCondition__c.ExternalId__c</field>
+        <field>SBQQ__CustomActionCondition__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__CustomAction__c.ExternalId__c</field>
+        <field>SBQQ__CustomAction__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -53,12 +53,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__CustomScript__c.ExternalId__c</field>
+        <field>SBQQ__CustomScript__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__DiscountSchedule__c.ExternalId__c</field>
+        <field>SBQQ__DiscountSchedule__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -78,7 +78,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__ErrorCondition__c.ExternalId__c</field>
+        <field>SBQQ__ErrorCondition__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -98,7 +98,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>SBQQ__ImportColumn__c.ExternalId__c</field>
+        <field>SBQQ__ImportColumn__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -108,12 +108,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>SBQQ__ImportFormat__c.ExternalId__c</field>
+        <field>SBQQ__ImportFormat__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>SBQQ__LineColumn__c.ExternalId__c</field>
+        <field>SBQQ__LineColumn__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -128,7 +128,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__LookupQuery__c.ExternalId__c</field>
+        <field>SBQQ__LookupQuery__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -148,12 +148,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__OptionConstraint__c.ExternalId__c</field>
+        <field>SBQQ__OptionConstraint__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__PriceAction__c.ExternalId__c</field>
+        <field>SBQQ__PriceAction__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -168,7 +168,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__PriceCondition__c.ExternalId__c</field>
+        <field>SBQQ__PriceCondition__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -188,7 +188,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__PriceRule__c.ExternalId__c</field>
+        <field>SBQQ__PriceRule__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -198,7 +198,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__ProcessInputCondition__c.ExternalId__c</field>
+        <field>SBQQ__ProcessInputCondition__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -213,7 +213,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__ProcessInput__c.ExternalId__c</field>
+        <field>SBQQ__ProcessInput__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -228,7 +228,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__ProductAction__c.ExternalId__c</field>
+        <field>SBQQ__ProductAction__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -248,7 +248,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__ProductFeature__c.ExternalId__c</field>
+        <field>SBQQ__ProductFeature__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -263,7 +263,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__ProductOption__c.ExternalId__c</field>
+        <field>SBQQ__ProductOption__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -283,17 +283,17 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__ProductRule__c.ExternalId__c</field>
+        <field>SBQQ__ProductRule__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__QuoteProcess__c.ExternalId__c</field>
+        <field>SBQQ__QuoteProcess__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__QuoteTemplate__c.ExternalId__c</field>
+        <field>SBQQ__QuoteTemplate__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -308,7 +308,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>SBQQ__QuoteTerm__c.ExternalId__c</field>
+        <field>SBQQ__QuoteTerm__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -333,17 +333,17 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__SearchFilter__c.ExternalId__c</field>
+        <field>SBQQ__SearchFilter__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__SummaryVariable__c.ExternalId__c</field>
+        <field>SBQQ__SummaryVariable__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__TemplateContent__c.ExternalId__c</field>
+        <field>SBQQ__TemplateContent__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -353,7 +353,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__TemplateSection__c.ExternalId__c</field>
+        <field>SBQQ__TemplateSection__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
