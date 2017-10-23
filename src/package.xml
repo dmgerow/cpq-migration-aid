@@ -16,6 +16,8 @@
         <members>SBQQ__DiscountSchedule__c.OriginalDiscountScheduleExternalId__c</members>
         <members>SBQQ__DiscountSchedule__c.PricebookExternalId__c</members>
         <members>SBQQ__DiscountSchedule__c.ProductExternalId__c</members>
+        <members>SBQQ__DiscountTier__c.cpqma_ExternalId__c</members>
+        <members>SBQQ__DiscountTier__c.ScheduleExternalId__c</members>
         <members>SBQQ__ErrorCondition__c.cpqma_ExternalId__c</members>
         <members>SBQQ__ErrorCondition__c.FilterVariableExternalId__c</members>
         <members>SBQQ__ErrorCondition__c.RuleExternalId__c</members>
@@ -109,6 +111,7 @@
         <members>SBQQ__SummaryVariable__c</members>
         <members>SBQQ__TemplateContent__c</members>
         <members>SBQQ__TemplateSection__c</members>
+        <members>SBQQ__DiscountTier__c</members>
         <name>Workflow</name>
     </types>
     <version>40.0</version>

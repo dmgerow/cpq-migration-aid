@@ -107,7 +107,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true/editable>
+        <editable>true</editable>
         <field>SBQQ__ImportColumn__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -117,12 +117,12 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true/editable>
+        <editable>true</editable>
         <field>SBQQ__ImportFormat__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true/editable>
+        <editable>true</editable>
         <field>SBQQ__LineColumn__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -317,7 +317,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true/editable>
+        <editable>true</editable>
         <field>SBQQ__QuoteTerm__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
