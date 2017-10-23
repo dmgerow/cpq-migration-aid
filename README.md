@@ -26,6 +26,7 @@ The following objects are currently supported:
 * SBQQ__CustomActionCondition__c
 * SBQQ__CustomScript__c
 * SBQQ__DiscountSchedule__c
+* SBQQ__DiscountTier__c
 * SBQQ__ErrorCondition__c
 * SBQQ__LookupQuery__c
 * SBQQ__OptionConstraint__c
