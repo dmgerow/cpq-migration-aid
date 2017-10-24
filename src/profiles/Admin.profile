@@ -28,12 +28,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>SBQQ__BlockPrice__r.cpqma_ExternalId__c</field>
+        <field>SBQQ__BlockPrice__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__BlockPrice__r.ProductExternalId__c</field>
+        <field>SBQQ__BlockPrice__c.ProductExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
