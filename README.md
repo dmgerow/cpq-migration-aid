@@ -22,6 +22,7 @@ The following objects are currently supported:
 * Pricebook2
 * PricebookEntry
 * Product2
+* SBQQ__BlockPrice__c
 * SBQQ__CustomAction__c
 * SBQQ__CustomActionCondition__c
 * SBQQ__CustomScript__c
