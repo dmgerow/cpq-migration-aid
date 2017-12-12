@@ -53,12 +53,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>SBQQ__PriceDimension__c.cpqma_ExternalId__c</field>
+        <field>SBQQ__Dimension__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>SBQQ__PriceDimension__c.ProductExternalId__c</field>
+        <field>SBQQ__Dimension__c.ProductExternalId__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
