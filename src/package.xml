@@ -31,6 +31,7 @@
         <members>SBQQ__LookupQuery__c.RuleExternalId__c</members>
         <members>SBQQ__OptionConstraint__c.ConfiguredSkuExternalId__c</members>
         <members>SBQQ__OptionConstraint__c.ConstrainedOptionExternalId__c</members>
+        <members>SBQQ__OptionConstraint__c.ConstrainingOptionExternalId__c</members>
         <members>SBQQ__OptionConstraint__c.cpqma_ExternalId__c</members>
         <members>SBQQ__PriceAction__c.cpqma_ExternalId__c</members>
         <members>SBQQ__PriceAction__c.RuleExternalId__c</members>

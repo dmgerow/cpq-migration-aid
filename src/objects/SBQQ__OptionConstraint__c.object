@@ -22,6 +22,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>ConstrainingOptionExternalId__c</fullName>
+        <externalId>false</externalId>
+        <formula>SBQQ__ConstrainingOption__r.cpqma_ExternalId__c</formula>
+        <label>ConstrainingOptionExternalId</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>cpqma_ExternalId__c</fullName>
         <externalId>true</externalId>
         <label>CPQ External Id</label>
