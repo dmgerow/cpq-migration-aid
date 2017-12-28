@@ -83,6 +83,9 @@
         <members>SBQQ__ImportFormat__c.cpqma_ExternalId__c</members>
         <members>SBQQ__ImportColumn__c.cpqma_ExternalId__c</members>
         <members>SBQQ__ImportColumn__c.FormatExternalId__c</members>
+        <members>SBQQ__TermCondition__c.cpqma_ExternalId__c</members>
+        <members>SBQQ__TermCondition__c.QuoteTermExternalId__c</members>
+        <members>SBQQ__TermCondition__c.TestVariableExternalId__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -123,6 +126,7 @@
         <members>SBQQ__TemplateContent__c</members>
         <members>SBQQ__TemplateSection__c</members>
         <members>SBQQ__DiscountTier__c</members>
+        <members>SBQQ__TermCondition__c</members>
         <name>Workflow</name>
     </types>
     <version>40.0</version>
