@@ -19,29 +19,37 @@ Note: External Ids on Price Books and Price Book Entries are not automatically p
 
 ## Usage Notes
 The following objects are currently supported:
-* Pricebook2
-* PricebookEntry
 * Product2
 * SBQQ__BlockPrice__c
+* SBQQ__ConfigurationAttribute__c
+* SBQQ__ContractedPrice__c
 * SBQQ__CustomAction__c
 * SBQQ__CustomActionCondition__c
 * SBQQ__CustomScript__c
+* SBQQ__Dimension__c
 * SBQQ__DiscountSchedule__c
 * SBQQ__DiscountTier__c
 * SBQQ__ErrorCondition__c
+* SBQQ__ImportColumn__c
+* SBQQ__ImportFormat__c
+* SBQQ__LineColumn__c
 * SBQQ__LookupQuery__c
 * SBQQ__OptionConstraint__c
 * SBQQ__PriceAction__c
 * SBQQ__PriceCondition__c
 * SBQQ__PriceRule__c
 * SBQQ__ProcessInput__c
+* SBQQ__ProcessInputCondition__c
+* SBQQ__ProcessInputValue__c
 * SBQQ__ProductAction__c
 * SBQQ__ProductFeature__c
 * SBQQ__ProductOption__c
 * SBQQ__ProductRule__c
 * SBQQ__QuoteProcess__c
 * SBQQ__QuoteTemplate__c
+* SBQQ__QuoteTerm__c
 * SBQQ__SearchFilter__c
 * SBQQ__SummaryVariable__c
 * SBQQ__TemplateContent__c
 * SBQQ__TemplateSection__c
+* SBQQ__TermCondition__c
