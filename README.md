@@ -23,6 +23,7 @@ The following objects are currently supported:
 * SBQQ__BlockPrice__c
 * SBQQ__ConfigurationAttribute__c
 * SBQQ__ContractedPrice__c
+* SBQQ__ConfigurationRule__c
 * SBQQ__CustomAction__c
 * SBQQ__CustomActionCondition__c
 * SBQQ__CustomScript__c

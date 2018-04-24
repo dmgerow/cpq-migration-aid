@@ -425,6 +425,26 @@
         <editable>true</editable>
         <field>SBQQ__TermCondition__c.cpqma_ExternalId__c</field>
         <readable>true</readable>
+    </fieldPermissions>    
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>SBQQ__ConfigurationRule__c.cpqma_ExternalId__c</field>
+        <readable>true</readable>
+    </fieldPermissions>    
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>SBQQ__ConfigurationRule__c.RuleExternalId__c</field>
+        <readable>true</readable>
+    </fieldPermissions>    
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>SBQQ__ConfigurationRule__c.FeatureExternalId__c</field>
+        <readable>true</readable>
+    </fieldPermissions>    
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>SBQQ__ConfigurationRule__c.ProductExternalId__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <userLicense>Salesforce</userLicense>
 </Profile>
