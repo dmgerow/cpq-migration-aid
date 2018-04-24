@@ -131,7 +131,7 @@
         <members>SBQQ__TemplateSection__c</members>
         <members>SBQQ__DiscountTier__c</members>
         <members>SBQQ__TermCondition__c</members>
-        <members>SBQQ__ConfigurationRules__c</members>
+        <members>SBQQ__ConfigurationRule__c</members>
         <name>Workflow</name>
     </types>
     <version>40.0</version>
