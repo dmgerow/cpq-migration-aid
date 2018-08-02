@@ -87,7 +87,7 @@ The following objects are currently supported:
 Please note that you will need to have Salesforce CPQ installed in your scratch org before being able to deploy this. 
 1. Get the latest package ID of the CPQ Package by going [here](https://steelbrick2.force.com/apex/installpremium), copying the link address of the installation link for the package version you want, and copying down the ID shown after ```p0=```. An example is below:
 ```
-https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0H0000015iAPQAY
+https://login.salesforce.com/packaging/installPackage.apexp?p0=04t610000004RtwAAE
 ```
 2. Execute the following command after creating your scratch org
 ```
