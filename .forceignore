@@ -8,6 +8,7 @@ force-app/main/default/objects/Opportunity
 force-app/main/default/settings
 force-app/main/default/profiles
 force-app/main/default/layouts
+force-app/main/default/customindex
 
 # LWC configuration files
 **/jsconfig.json
