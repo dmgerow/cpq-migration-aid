@@ -6,6 +6,8 @@ package.xml
 force-app/main/default/featureParameters
 force-app/main/default/objects/Opportunity
 force-app/main/default/settings
+force-app/main/default/profiles
+force-app/main/default/layouts
 
 # LWC configuration files
 **/jsconfig.json
