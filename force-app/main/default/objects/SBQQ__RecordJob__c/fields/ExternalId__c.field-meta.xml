@@ -8,7 +8,7 @@
     <inlineHelpText
   >Stores a unique ID for each record that can be used for data migration.</inlineHelpText>
     <label>External ID</label>
-    <length>20</length>
+    <length>36</length>
     <required>false</required>
     <trackTrending>false</trackTrending>
     <type>Text</type>
