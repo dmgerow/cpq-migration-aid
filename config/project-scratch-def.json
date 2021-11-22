@@ -1,7 +1,7 @@
 {
   "orgName": "dgerow company",
   "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
+  "features": ["EnableSetPasswordInApi","CPQ"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true

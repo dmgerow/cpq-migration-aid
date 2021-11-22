@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "Salesforce App",
   "scripts": {
+    "create:scratch": "sfdx force:org:create -f config/project-scratch-def.json --setalias cpqmigrationaid --durationdays 7 --setdefaultusername && sfdx force:package:install -w 60 -r -p 04t4N000000GkQ3QAK && sfdx force:source:push",
     "lint": "eslint **/{aura,lwc}/**",
     "test": "npm run test:unit",
     "test:unit": "sfdx-lwc-jest",
