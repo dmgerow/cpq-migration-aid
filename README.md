@@ -15,107 +15,107 @@ Install from the [Latest Release page](https://github.com/dmgerow/cpq-migration-
 
 ## Objects Supported
 
-- SBQQ**AttributeSet**c
+- AttributeSet
 
-- SBQQ**BlockPrice**c
+- BlockPrice
 
-- SBQQ**ColumnMetadata**c
+- ColumnMetadata
 
-- SBQQ**ConfigurationAttribute**c
+- ConfigurationAttribute
 
-- SBQQ**ConfigurationRule**c
+- ConfigurationRule
 
-- SBQQ**ContractedPrice**c
+- ContractedPrice
 
-- SBQQ**Cost**c
+- Cost
 
-- SBQQ**CustomActionCondition**c
+- CustomActionCondition
 
-- SBQQ**CustomAction**c
+- CustomAction
 
-- SBQQ**CustomScript**c
+- CustomScript
 
-- SBQQ**Dimension**c
+- Dimension
 
-- SBQQ**DiscountCategory**c
+- DiscountCategory
 
-- SBQQ**DiscountSchedule**c
+- DiscountSchedule
 
-- SBQQ**DiscountTier**c
+- DiscountTier
 
-- SBQQ**ErrorCondition**c
+- ErrorCondition
 
-- SBQQ**FavoriteProduct**c
+- FavoriteProduct
 
-- SBQQ**FavoriteShare**c
+- FavoriteShare
 
-- SBQQ**Favorite**c
+- Favorite
 
-- SBQQ**FieldSetMetadata**c
+- FieldSetMetadata
 
-- SBQQ**ImportColumn**c
+- ImportColumn
 
-- SBQQ**ImportFormat**c
+- ImportFormat
 
-- SBQQ**LineColumn**c
+- LineColumn
 
-- SBQQ**Localization**c
+- Localization
 
-- SBQQ**LookupData**c
+- LookupData
 
-- SBQQ**LookupQuery**c
+- LookupQuery
 
-- SBQQ**OptionConstraint**c
+- OptionConstraint
 
-- SBQQ**PriceAction**c
+- PriceAction
 
-- SBQQ**PriceCondition**c
+- PriceCondition
 
-- SBQQ**PriceRule**c
+- PriceRule
 
-- SBQQ**PricingGuidanceTier**c
+- PricingGuidanceTier
 
-- SBQQ**PricingGuidance**c
+- PricingGuidance
 
-- SBQQ**ProcessInputCondition**c
+- ProcessInputCondition
 
-- SBQQ**ProcessInput**c
+- ProcessInput
 
-- SBQQ**ProductAction**c
+- ProductAction
 
-- SBQQ**ProductAttributeSet**c
+- ProductAttributeSet
 
-- SBQQ**ProductAttribute**c
+- ProductAttribute
 
-- SBQQ**ProductFeature**c
+- ProductFeature
 
-- SBQQ**ProductOption**c
+- ProductOption
 
-- SBQQ**ProductRule**c
+- ProductRule
 
-- SBQQ**QuoteProcess**c
+- QuoteProcess
 
-- SBQQ**QuoteTemplate**c
+- QuoteTemplate
 
-- SBQQ**QuoteTerm**c
+- QuoteTerm
 
-- SBQQ**RelatedContent**c
+- RelatedContent
 
-- SBQQ**SearchFilter**c
+- SearchFilter
 
-- SBQQ**SolutionGroup**c
+- SolutionGroup
 
-- SBQQ**SummaryVariable**c
+- SummaryVariable
 
-- SBQQ**TemplateContent**c
+- TemplateContent
 
-- SBQQ**TemplateSection**c
+- TemplateSection
 
-- SBQQ**TermCondition**c
+- TermCondition
 
-- SBQQ**Theme**c
+- Theme
 
-- SBQQ**UpgradeSource**c
+- UpgradeSource
 
 - Product2
 
