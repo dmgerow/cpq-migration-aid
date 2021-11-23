@@ -2,11 +2,22 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "CPQ Migration Aid",
+      "versionNumber": "1.0.0.NEXT",
+      "dependencies": [
+        {
+          "package": "salesforce-cpq@234.4"
+        }
+      ]
     }
   ],
   "name": "cpq-migration-aid",
   "namespace": "cpqma",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "52.0"
+  "sourceApiVersion": "52.0",
+  "packageAliases": {
+    "salesforce-cpq@234.4": "04t4N000000GkQ3QAK",
+    "CPQ Migration Aid": "0Ho5f000000blYLCAY"
+  }
 }
