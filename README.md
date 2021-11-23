@@ -2,7 +2,9 @@
 
 Set of metadata that can be deployed to a Salesforce org to assist with Salesforce CPQ Data Migration by creating a unique Id on CPQ configuration data.
 
-Note: Consider using the [Salesforce Data Loader SFDX Plugin](https://github.com/forcedotcom/SFDX-Data-Move-Utility) to perform scripted configuration data migration.
+Consider using the [Salesforce Data Loader SFDX Plugin](https://github.com/forcedotcom/SFDX-Data-Move-Utility) to perform scripted configuration data migration.
+
+Note: Triggers are not supported on PricebookEntries as of the Winter '21 release so external IDs need to be manually populated.
 
 ## Installation Instructions
 
@@ -10,7 +12,7 @@ Install from the [Latest Release page](https://github.com/dmgerow/cpq-migration-
 
 ## Usage Instructions
 
-1. Install in the orgs for which you will be migrating to and from via the Deploy To Salesforce button above
+1. Install in the orgs for which you will be migrating to and from
 2. If there is currently configuration data in your org, update all records for which you woud like external Ids present
 3. Retrieve your records from the source org (they will have external Ids now)
 4. Upsert your records to your target org using the external Ids. For relationships, use the relationship's external Id to form the relationship.
