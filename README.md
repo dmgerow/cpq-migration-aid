@@ -4,7 +4,7 @@ Set of metadata that can be deployed to a Salesforce org to assist with Salesfor
 
 Consider using the [Salesforce Data Loader SFDX Plugin](https://github.com/forcedotcom/SFDX-Data-Move-Utility) to perform scripted configuration data migration.
 
-Note: Triggers are not supported on PricebookEntries as of the Winter '21 release so external IDs need to be manually populated.
+Note: Triggers are not supported on PricebookEntries as of the Winter '22 release so external IDs need to be manually populated.
 
 ## Installation Instructions
 
