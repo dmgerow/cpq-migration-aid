@@ -719,4 +719,22 @@ private class TriggerTests {
             [SELECT COUNT() FROM SBQQ__UpgradeSource__c WHERE cpqma__ExternalId__c != NULL]
         );
     }
+
+    @isTest
+    static void pricebook() {
+        Test.startTest();
+        SBQQ.TriggerControl.disable();
+        update new Pricebook2(Id = Test.getStandardPricebookId());
+        Test.stopTest();
+        System.assertEquals(1, [SELECT COUNT() FROM Pricebook2 WHERE cpqma__ExternalId__c != NULL]);
+    }
+
+    @isTest
+    static void Product2() {
+        Test.startTest();
+        SBQQ.TriggerControl.disable();
+        insert new Product2(Name = 'Test');
+        Test.stopTest();
+        System.assertEquals(1, [SELECT COUNT() FROM Product2 WHERE cpqma__ExternalId__c != NULL]);
+    }
 }
