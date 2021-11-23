@@ -2,6 +2,8 @@
 
 Set of metadata that can be deployed to a Salesforce org to assist with Salesforce CPQ Data Migration by creating a unique Id on CPQ configuration data.
 
+Note: Consider using the [Salesforce Data Loader SFDX Plugin](https://github.com/forcedotcom/SFDX-Data-Move-Utility) to perform scripted configuration data migration.
+
 ## Installation Instructions
 
 Install from the [Latest Release page](https://github.com/dmgerow/cpq-migration-aid/releases/latest/).
