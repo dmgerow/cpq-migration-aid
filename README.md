@@ -1,4 +1,4 @@
-# cpq-migration-aid
+# CPQ Migration Aid
 
 Set of metadata that can be deployed to a Salesforce org to assist with Salesforce CPQ Data Migration by creating a unique Id on CPQ configuration data.
 
